@@ -1,4 +1,3 @@
-````md
 # 🧊 Setup: Ubuntu minimal + Btrfs + QEMU/KVM + GPU Passthrough
 
 Guia completo para:
